@@ -3,9 +3,9 @@ module.exports.mess = {
 			success: '*Succes*',
 			wrongFormat: '*Format Is Wrong Retry..!*',
 			error: {
-				api: '*Oops An Error Occurred*',
+				api: '*entho error ondallo*',
 				stick: '*Not That Sticker :v*',
-				Iv: '*Invalid Link*'
+				Iv: '*link sherialla*'
 			},
 			only: {
 				group: '*This command is specific to within the Group only.*',
