@@ -1,5 +1,5 @@
 {
-  "name": "Bosco",
+  "name": "Barroz",
   "version": "1.0.0",
   "description": "Gak Ada",
   "main": "main.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
-  "author": "Denis",
+  "author": "king barroz",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "@vitalets/google-translate-api": "^7.0.0",
